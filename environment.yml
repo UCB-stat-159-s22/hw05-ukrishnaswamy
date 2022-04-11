@@ -14,4 +14,4 @@ dependencies:
   - h5py=2.10
   - scipy=1.2
   
-prefix: /home/jovyan/envs/ligo
+# prefix: /home/jovyan/envs/ligo
